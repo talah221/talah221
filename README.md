@@ -5,7 +5,7 @@ including Vue.js, Vuex, Node.js, React.js and Angular.
 Graduate of the Coding Academy - an intensive coding bootcamp (640 hours) that qualifies Full Stack developers.
 Passionate about technology, striving to be the best, fast learner, and a team player.
 
-- 📫 How to reach me: talni250@gmail.com
+- 📫  talni250@gmail.com
 Thanks :)
 
 <!--
