@@ -35,5 +35,5 @@
 <a href="mailto:talni250@gmail.com"><img src="https://img.shields.io/badge/-talni250@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 
-
+![](https://bit.ly/34UwYwM)
 
