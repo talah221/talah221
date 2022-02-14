@@ -26,8 +26,7 @@
 </a>
 </p>
 
-[<img src="https://raw.githubusercontent.com/talah221/main/profile-views.svg" height="50"/>](talah221)
-
+[<img src="https://raw.githubusercontent.com/talah221/talah221/main/profile-views.svg" height="50"/>](talah221/talah221)
 ### 🤝🏻 &nbsp;Connect with Me 
 
 <p align="center">
